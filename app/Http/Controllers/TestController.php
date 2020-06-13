@@ -44,7 +44,7 @@ class TestController extends Controller
         $chart->labels($labels);
         $chart->dataset('Kasus Positif', 'pie', $data)->backgroundColor($colors);
 
-        return view('grafikProvinsi', ['chart' => $chart,]);
+        return view('grafikprovinsi', ['chart' => $chart,]);
     }
 
      public function grafikdunia()
