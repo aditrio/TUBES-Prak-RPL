@@ -122,7 +122,7 @@
                 <center><h3 class="card-title"><i class="tim-icons icon-bell-55 text-primary">Grafik Provinsi</i> </h3></center>
               </div><br>
               <div class="card-body">
-                <img src="grafik.png"><br>
+                <img src="Grafik.png"><br>
               </div></a>
             </div>
           </div>
